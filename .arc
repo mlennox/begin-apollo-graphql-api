@@ -1,5 +1,7 @@
 @app
-begin-app
+wonder-mtc
+
+@static
 
 @http
 post /graphql
